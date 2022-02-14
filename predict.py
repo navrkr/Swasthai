@@ -1,12 +1,8 @@
 import streamlit as st
-from tkinter import *
-from tkinter import messagebox
-from turtle import width
 import numpy as np
 import pandas as pd
 from streamlit_lottie import st_lottie
 import requests
-#import pickel
 
 DEFAULT = '< TYPE YOUR SYMPTOM >'
 
